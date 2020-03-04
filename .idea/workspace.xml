@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d47f6f8-ee29-4b0f-89b4-a807916110f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Xz2S6Zehvz8080smYdPXdvO6u5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../erick.fauro" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d47f6f8-ee29-4b0f-89b4-a807916110f2" name="Default Changelist" comment="" />
+      <created>1582034598286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582034598286</updated>
+      <workItem from="1582034599433" duration="20000" />
+      <workItem from="1582034639058" duration="291000" />
+      <workItem from="1582121464466" duration="5133000" />
+      <workItem from="1582129559111" duration="8000" />
+      <workItem from="1582219036210" duration="4878000" />
+      <workItem from="1582810069918" duration="20000" />
+      <workItem from="1582812558603" duration="4012000" />
+      <workItem from="1583163226746" duration="3040000" />
+      <workItem from="1583245036207" duration="23000" />
+      <workItem from="1583261307108" duration="299000" />
+      <workItem from="1583331516675" duration="4979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2795" y="201" width="800" height="684" key="#Scopes" timestamp="1582220581315">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2795" y="201" width="800" height="684" key="#Scopes/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1582220581315" />
+    <state x="836" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582222171948">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="836" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1582222171948" />
+    <state x="2876" y="345" width="637" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582121575678">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2876" y="345" width="637" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1582121575678" />
+    <state x="2883" y="268" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583337735295">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2883" y="268" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1583337735295" />
+    <state x="1430" y="424" width="490" height="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582222189680">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1430" y="424" width="490" height="266" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1582222189680" />
+    <state x="279" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582129537180">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="279" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.2560.1080@0.27.1920.1053" timestamp="1582129537180" />
+    <state x="2995" y="465" width="399" height="156" key="NewPhpFileDialog" timestamp="1583338487450">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2995" y="465" width="399" height="156" key="NewPhpFileDialog/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1583338487450" />
+    <state x="2863" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1582121523115">
+      <screen x="1920" y="0" width="2560" height="1080" />
+    </state>
+    <state x="2863" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.2560.1080@1920.0.2560.1080" timestamp="1582121523115" />
+  </component>
+</project>
